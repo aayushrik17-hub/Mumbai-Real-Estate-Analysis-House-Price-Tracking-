@@ -4,7 +4,7 @@ This dashboard provides a comprehensive overview of Mumbai's real estate market 
 Core Business Question
 
 How are house prices distributed across Mumbai, and what factors (property type, location, affordability tier, rental market, and under-construction projects) influence property values to support buying, selling, and investment decisions?
-
+https://github.com/aayushrik17-hub/Mumbai-Real-Estate-Analysis-House-Price-Tracking-/blob/main/image.png
 This dashboard provides a 360-degree view of Mumbai's real estate market by combining:
 
 Property sale prices
